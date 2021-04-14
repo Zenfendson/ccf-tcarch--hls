@@ -1,20 +1,40 @@
-# Xilinx Adaptive Compute Clusters ![](./images/xacc_banner.png)
+# CCF HLS算法实现挑战赛
 
-The Xilinx Adaptive Compute Clusters (XACC) program is a special initiative to support novel research in adaptive compute acceleration for high performance computing (HPC). The scope of the program is broad and encompasses systems, architecture, tools and applications.
+![](./images/cover.jpg)
 
-Four XACCs have been established at some of world’s most prestigious universities. XACCs are equipped with the latest Xilinx hardware and software technologies for adaptive compute acceleration research. Each cluster is specially configured to enable some of the world’s foremost academic teams to conduct state-of-the-art HPC research.
+CCF TCARCH -- HLS算法实现挑战赛（计算机体系结构挑战赛）是中国计算机学会体系结构专委会所举办的旨在挖掘计算机体系结构人才、激发学生对计算机体系结构的研究兴趣、培养学生创新精神的一项全国赛事
 
-See the [getting started](./get-started.html) page for more details on the program and how to apply. 
+## 竞赛组织
+主办单位： CCF计算机体系结构专委会
 
-## Contribute to this site
+承办单位： 北京大学CECA, Xilinx
 
-If you would like to contribute to this site by adding an XACC related publications, examples, demos, training materials or other resources, you can open a pull request via the GitHub link in the bottom left of this page, or you can contact the Xilinx University Program team who manage the XACC program (see e-mail link below).  
+专家委员会：
++ CECA: 梁云，孙广宇，罗国杰
++ Xilinx： Colin， Xiaoqun
++ 体系结构专委:   李涛，安虹，徐子晨
 
-For more information visit [contributing](contributing.md)
 
-## Contact us
+## 竞赛流程
 
-If you have any questions about the XACC program, please e-mail the Xilinx University Program <xup@xilinx.com>
+
+4月26日发布
+
+4月28日发布培训和赛事介绍
+
+**5-6月选拔赛**
+
+5月17日开放作品提交
+
+6月20日截止提交
+
+6月28日发布入围决赛的8-12个队伍参加现场决赛
+
+8月决赛
+
+选拔赛成绩占 **30%**
+
+决赛成绩占 **70%**
 
 ---------------------------------------
 <p align="center">Copyright&copy; 2021 Xilinx</p>
