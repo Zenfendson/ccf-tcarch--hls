@@ -9,3 +9,5 @@ pp4fpgas是Xilinx研究院的Steve首席工程师与UCSD的Ryan Kastner教授团
 案例和实例源码仓库<a class="buttons github" href="https://github.com/xupsh/pp4fpgas-cn-hls"><b>View at github</b></a></p>
 
 ## Vitis HLS 
+
+Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, 二者从功能上看十分相似，而Vitis HLS更为完备，在某些功能上
