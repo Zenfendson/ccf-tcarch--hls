@@ -6,9 +6,17 @@ pp4fpgas是Xilinx研究院的Steve首席工程师与UCSD的Ryan Kastner教授团
 
 [**电子书链接**](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
 
-案例和实例源码仓库<a class="buttons github" href="https://github.com/xupsh/pp4fpgas-cn-hls"><b>View at github</b></a></p>
+案例和实例源码仓库<a class="buttons github" href="https://github.com/xupsh/pp4fpgas-cn-hls"><b>View at github</b></a>
 
 ## Vitis HLS 
 
-Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, Vivado HLS 也将止步于2020.1，二者从功能上看十分相似，但整体上Vitis HLS更为完备，例如在Default user control setting 和自动优化等方面。
+Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, Vivado HLS 也将止步于2020.1，二者从功能上看十分相似，但整体上Vitis HLS更为完备，例如在Default user control setting 和自动优化等方面，本次比赛的编译环境将基于Vitis平台
 
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?cid=211965422&aid=753816989&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+</div>
+
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="width:90%;" height="315" src="https://www.youtube.com/embed/T4HaM2QONw8&list=PLRr5m7hDN9TI_TbwWxNuzHUUqR-P1Piq6?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+                  
