@@ -18,8 +18,6 @@ Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, Vivado HLS 也将止�
 </div>
 
 **在Youtube上看Vitis AI 1.3新特性**
-<div style="position: relative; padding: 30% 45%;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4HaM2QONw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
                   
-[更多视频](https://www.youtube.com/watch?v=T4HaM2QONw8&list=PLRr5m7hDN9TI_TbwWxNuzHUUqR-P1Piq6)
+[**更多视频**](https://www.youtube.com/watch?v=T4HaM2QONw8&list=PLRr5m7hDN9TI_TbwWxNuzHUUqR-P1Piq6)
