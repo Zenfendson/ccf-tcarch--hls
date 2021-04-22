@@ -2,13 +2,13 @@ docs_list_title: competition_infor_sidebar
 docs:
   
 - title: 竞赛介绍
-  url: competition_introduction.html
+  url: introduction.html
 
 - title: 竞赛规则
-  url: competition_rules.html
+  url: rules.html
 
 - title: 竞赛题目
-  url: questions.html
+  url: problems.html
 
 - title: 作品提交
   url: upload_project.html

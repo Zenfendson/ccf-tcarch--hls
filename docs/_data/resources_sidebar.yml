@@ -2,7 +2,7 @@ docs_list_title: resources_sidebar
 docs:
   
 - title: 资料下载
-  url: download_resources.html
+  url: resources.html
 
 - title: 常见问题
-  url: common_questions.html
+  url: faqs.html
