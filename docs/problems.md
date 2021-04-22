@@ -73,6 +73,7 @@
   >The diameter of a graph is the greatest distance between any pair of vertices. The estimated diameter problem tries to find a distance that is close to the graph diameter as much as possible.
 
 
+<!--
 
 ## **决赛题目**
 
@@ -102,4 +103,5 @@
   >Calculate the overlap similarity of two vertices in a graph. The overlap similarity is computed using the following formula
   >![](./images/quentions_image1.png)
 
+!-->  
 

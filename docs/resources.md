@@ -10,4 +10,5 @@ pp4fpgas是Xilinx研究院的Steve首席工程师与UCSD的Ryan Kastner教授团
 
 ## Vitis HLS 
 
-Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, 二者从功能上看十分相似，而Vitis HLS更为完备，在某些功能上
+Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, Vivado HLS 也将止步于2020.1，二者从功能上看十分相似，但整体上Vitis HLS更为完备，例如在Default user control setting 和自动优化等方面。
+
