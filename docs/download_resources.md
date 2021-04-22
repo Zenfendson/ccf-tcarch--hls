@@ -6,6 +6,6 @@ pp4fpgas是Xilinx研究院的Steve首席工程师与UCSD的Ryan Kastner教授团
 
 [**电子书链接**](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
 
-案例和实例源码仓库<p style="font-size: 15px; line-height: 1.4em; padding: 0px 0px 0px 12px;"><a class="buttons github" href="{{ site.github.repository_url }}/blob/master/docs/contributing.md"><b>View at github</b></a></p>
+案例和实例源码仓库<a class="buttons github" href="https://github.com/xupsh/pp4fpgas-cn-hls"><b>View at github</b></a></p>
 
 ## Vitis HLS 
