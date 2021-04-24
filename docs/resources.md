@@ -12,6 +12,8 @@ pp4fpgas是Xilinx研究院的Steve首席工程师与UCSD的Ryan Kastner教授团
 
 Vitis HLS 将取代大家可能更为熟悉的Vivado HLS, Vivado HLS 也将止步于2020.1，二者从功能上看十分相似，但整体上Vitis HLS更为完备，例如在默认用户控制设置，自动代码优化和GUI等方面，本次比赛的编译环境将基于Vitis平台。
 
+[**Vitis HLS 教程**](https://www.xilinx.com/html_docs/xilinx2020_2/vitis_doc/hjv1582730488418.html)
+
 ### 在哔哩哔哩上看Vitis系列教程
 <div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?cid=211965422&aid=753816989&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
